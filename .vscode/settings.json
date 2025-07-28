@@ -1,0 +1,9 @@
+{
+    "liveServer.settings.root": "/",
+    "liveServer.settings.file": "index.html",
+    "liveServer.settings.mount": [
+      ["/", "./"]
+    ],
+    "liveServer.settings.port": 5501
+  }
+  
